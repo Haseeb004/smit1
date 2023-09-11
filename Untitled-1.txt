@@ -1,0 +1,5 @@
+"this is mt txt file"
+
+git add .
+git commit-m "this is good"
+git push
